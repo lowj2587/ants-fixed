@@ -1,4 +1,5 @@
 {
+  "homepage": ".",
   "name": "ants-sandbox",
   "description": "A simple and completely useless simulation of ants colony for web browsers.",
   "author": {
