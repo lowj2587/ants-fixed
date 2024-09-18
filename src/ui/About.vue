@@ -41,7 +41,7 @@ function showWelcome() {
 
       <p>
         The project is open source. You can find the code on
-        <a href="https://github.com/tulustul/ants-sandbox" target="_blank">
+        <a href="https://github.com/lowj2587/ants-fixed" target="_blank">
           Github </a
         >.
       </p>
